@@ -1,4 +1,4 @@
-package java;
+package com;
 
 public class Person {
     private  int id;
@@ -56,5 +56,10 @@ public class Person {
     public static void main(String[] args) {
         System.out.println("jackLove");
         System.out.println("jackLove1");
+        System.out.println("hehe");
+        System.out.println("");
+        for(int i=1;i<10;i++){
+            System.out.println(i);
+        }
     }
 }
